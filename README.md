@@ -21,18 +21,6 @@ I focus on creating efficient frontend interfaces and robust backend systems, wh
 
 ---
 
-## 🌟 Featured Projects
-
-- **[Todo Application](https://github.com/priyanshi-singh022/Todo-App)**  
-  Full-stack MERN app with JWT authentication, CRUD, and deployment.  
-
-- **[Supply Chain Management System](https://github.com/priyanshi-singh022/Supply-Chain-Management)**  
-  Multi-role system (Admin, Distributor, Salesperson) with complete workflow management.  
-
-- **[Text-to-Image Generator](https://github.com/priyanshi-singh022/Text-to-Image-Generator)**  
-  Python + MonsterAPI app that converts text/speech into images.  
-
----
 
 
 ## 📬 Connect With Me  
