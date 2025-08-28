@@ -49,19 +49,13 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats  
 
-![Priyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pikupika&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikupika&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=pikupika&theme=radical&border_radius=10)](https://git.io/streak-stats)  
-
----
 
 ## 📬 Connect With Me  
 
-- 🌐 [Portfolio](https://pikupika.github.io/Priyanshi-Singh/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshi-singh-27980a271/)  
-- 🐦 [Twitter / X](https://x.com/Priyu42662521)  
+- 🌐 [Portfolio](https://priyanshi-singh022.github.io/Portfolio/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshi-singh022)  
+- 🐦 [Twitter / X](https://x.com/priyanshi0222)  
 
 ---
 
