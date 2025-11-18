@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Priyanshi Singh
 
-**Full-Stack Developer | React, Node.js, MongoDB | Exploring AI/ML APIs**
+**Project Manager with a Tech Edge | React, Node.js, MongoDB | Exploring AI/ML APIs**
 
 ---
 
 ## 💡 About Me
-I’m a passionate full-stack web developer who enjoys building clean, responsive, and user-friendly applications.  
-I focus on creating efficient frontend interfaces and robust backend systems, while also exploring AI/ML API integrations.  
+I manage and deliver digital projects while also building small web projects on the side.
+Blending project coordination with hands-on tech skills to turn ideas into functional products.
 
-💻 My goal is to grow as a developer who not only writes efficient code but also builds meaningful products that solve real-world problems.  
+---
+
+### Objective 
+To grow as a Project Manager who can plan, organize, and deliver impactful digital products while using my tech skills to collaborate better with teams, understand requirements clearly, and help turn ideas into real, working solutions.
 
 ---
 
