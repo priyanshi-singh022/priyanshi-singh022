@@ -9,13 +9,13 @@ To grow as a Project Manager who can plan, organize, and deliver impactful digit
 
 ---
 
-## About Me
+### About Me
 I manage and deliver digital projects while also building small web projects on the side.
 Blending project coordination with hands-on tech skills to turn ideas into functional products.
 
 ---
 
-## Tech Stack
+### Tech Stack
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express, Python (Flask)  
 - **Databases:** MongoDB, Mongoose  
