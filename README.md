@@ -4,7 +4,7 @@
 
 ---
 
-### Objective 
+### Objective
 To grow as a Project Manager who can plan, organize, and deliver impactful digital products while using my tech skills to collaborate better with teams, understand requirements clearly, and help turn ideas into real, working solutions.
 
 ---
@@ -26,7 +26,7 @@ Blending project coordination with hands-on tech skills to turn ideas into funct
 
 
 
-## 📬 Connect With Me  
+### Connect With Me  
 
 - 🌐 [Portfolio](https://priyanshi-singh022.github.io/Portfolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/priyanshi-singh022)  
