@@ -1,12 +1,6 @@
-# 👋 Hi, I'm Priyanshi Singh
+# 👋 Hi, I'm Priyanshi
 
-**Project Manager with a Tech Edge | React, Node.js, MongoDB | Exploring AI/ML APIs**
-
----
-
-## 💡 About Me
-I manage and deliver digital projects while also building small web projects on the side.
-Blending project coordination with hands-on tech skills to turn ideas into functional products.
+**Project Manager with a Tech Edge | Leadership | React, Node.js, MongoDB | Exploring AI/ML APIs**
 
 ---
 
@@ -15,7 +9,13 @@ To grow as a Project Manager who can plan, organize, and deliver impactful digit
 
 ---
 
-## 🚀 Tech Stack
+## About Me
+I manage and deliver digital projects while also building small web projects on the side.
+Blending project coordination with hands-on tech skills to turn ideas into functional products.
+
+---
+
+## Tech Stack
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express, Python (Flask)  
 - **Databases:** MongoDB, Mongoose  
@@ -31,7 +31,3 @@ To grow as a Project Manager who can plan, organize, and deliver impactful digit
 - 🌐 [Portfolio](https://priyanshi-singh022.github.io/Portfolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/priyanshi-singh022)  
 - 🐦 [Twitter / X](https://x.com/priyanshi0222)  
-
----
-
-✨ *“Code is my canvas; innovation is my art.”*  
